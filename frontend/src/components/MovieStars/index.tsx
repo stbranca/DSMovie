@@ -7,12 +7,12 @@ function MovieStars() {
     return (
 
         <div className="dsmovie-stars-container">
-  <StarFull />
-  <StarFull />
-  <StarFull />
-  <StarHalf />
-  <StarEmpty />
-</div>
+            <StarFull />
+            <StarFull />
+            <StarFull />
+            <StarHalf />
+            <StarEmpty />
+        </div>
 
     );
 }
